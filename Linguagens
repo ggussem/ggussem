@@ -1,11 +1,13 @@
 as 3 linguagens são Phyton, C e JavaScript
 
 phyton, print("Hello, Word!")
+https://github.com/ggussem/ggussem/blob/main/phyton%20print.JPG
 
 C, #include <stdio.h>
 int main () { 
 printf("Hello, Word!/n");
 return 0;
+
 
 JavaScript, console.log("Hello, World!"); 
 
